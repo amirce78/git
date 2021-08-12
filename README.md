@@ -1,2 +1,2 @@
 # git
-This repository only created for educational purpose and is being used to teach git and github to others.
+This repository is only created for educational purposes and is being used to teach git and GitHub to others.
